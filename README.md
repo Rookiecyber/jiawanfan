@@ -6,7 +6,7 @@
 本点餐项目分为web，mobile，myadmin三个部分。
 
 ## 技术栈
-- **前后端：html,css,js
+- **前端：html,css,js
 
 - **后端：django
 
