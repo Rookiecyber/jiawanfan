@@ -17,6 +17,6 @@
 
 
 
-**作者** [嘉碗饭全体开发小组](https://https://github.com/Rookiecyber/jiawanfan)
+**作者** [嘉碗饭全体开发小组](https://github.com/Rookiecyber/jiawanfan)
 
 2020年3月8日
